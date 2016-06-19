@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">isItSafe</string>
+    <string name="api_key">iamapikey</string>
+    <string name="api_secret">iamapisecret</string>
+    <string name="hello">This is a simple App to serve as reverse engineering target.</string>
+</resources>

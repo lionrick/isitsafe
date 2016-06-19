@@ -1,0 +1,4 @@
+See file:///E:/%23projetos/isitsafe/app/build/tmp/linkTrue_guardianArmeabiDebugAllSharedLibrary/output.txt for all output for linkTrue_guardianArmeabiDebugAllSharedLibrary.
+linking libtrue_guardian.so successful.
+
+Finished linkTrue_guardianArmeabiDebugAllSharedLibrary, see full log file:///E:/%23projetos/isitsafe/app/build/tmp/linkTrue_guardianArmeabiDebugAllSharedLibrary/output.txt.

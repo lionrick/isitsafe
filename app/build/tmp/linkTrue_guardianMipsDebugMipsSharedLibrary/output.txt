@@ -1,0 +1,4 @@
+See file:///E:/%23projetos/isitsafe/app/build/tmp/linkTrue_guardianMipsDebugMipsSharedLibrary/output.txt for all output for linkTrue_guardianMipsDebugMipsSharedLibrary.
+linking libtrue_guardian.so successful.
+
+Finished linkTrue_guardianMipsDebugMipsSharedLibrary, see full log file:///E:/%23projetos/isitsafe/app/build/tmp/linkTrue_guardianMipsDebugMipsSharedLibrary/output.txt.

@@ -1,0 +1,3 @@
+com.example.isitsafe.MainActivity -> com.example.isitsafe.MainActivity:
+    void <init>() -> <init>
+    void onCreate(android.os.Bundle) -> onCreate

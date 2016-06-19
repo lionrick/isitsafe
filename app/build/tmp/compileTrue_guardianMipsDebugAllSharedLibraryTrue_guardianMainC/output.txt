@@ -1,0 +1,5 @@
+See file:///E:/%23projetos/isitsafe/app/build/tmp/compileTrue_guardianMipsDebugAllSharedLibraryTrue_guardianMainC/output.txt for all output for compileTrue_guardianMipsDebugAllSharedLibraryTrue_guardianMainC.
+compiling true_guardian.c successful.
+clang.exe: warning: optimization flag '-finline-functions' is not supported
+
+Finished compileTrue_guardianMipsDebugAllSharedLibraryTrue_guardianMainC, see full log file:///E:/%23projetos/isitsafe/app/build/tmp/compileTrue_guardianMipsDebugAllSharedLibraryTrue_guardianMainC/output.txt.

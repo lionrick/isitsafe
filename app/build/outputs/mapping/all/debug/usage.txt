@@ -1,0 +1,10 @@
+com.example.isitsafe.BuildConfig
+com.example.isitsafe.KeyGuardian1
+com.example.isitsafe.KeyGuardian2
+com.example.isitsafe.KeyGuardian3
+com.example.isitsafe.R
+com.example.isitsafe.R$attr
+com.example.isitsafe.R$id
+com.example.isitsafe.R$layout
+com.example.isitsafe.R$mipmap
+com.example.isitsafe.R$string

@@ -1,0 +1,4 @@
+See file:///E:/%23projetos/isitsafe/app/build/tmp/linkTrue_guardianArm64-v8aReleaseAllSharedLibrary/output.txt for all output for linkTrue_guardianArm64-v8aReleaseAllSharedLibrary.
+linking libtrue_guardian.so successful.
+
+Finished linkTrue_guardianArm64-v8aReleaseAllSharedLibrary, see full log file:///E:/%23projetos/isitsafe/app/build/tmp/linkTrue_guardianArm64-v8aReleaseAllSharedLibrary/output.txt.
